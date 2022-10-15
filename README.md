@@ -1,24 +1,25 @@
 # PoC
 misc PoC - Internet of (In)Security Things
 
-Well worth to read about these crappy (in)security things:
-https://ipvm.com/reports/security-exploits
+Well worth to read about these crappy (in)security things: [security-exploits](https://ipvm.com/reports/security-exploits)
 
 Hikvision CVE-2021-36260
 ---
 2021-10-19
 
-All credit to Watchful_IP (https://watchfulip.github.io/)
+All credit to [Watchful_IP](https://watchfulip.github.io/)
 
-https://github.com/mcw0/PoC/blob/master/CVE-2021-36260.py
+[CVE-2021-36260](https://github.com/mcw0/PoC/blob/master/CVE-2021-36260.py)
 
 Dahua CVE-2021-33044, CVE-2021-33045
 ---
 2021-10-06
 
-Details: https://github.com/mcw0/PoC/blob/master/Dahua%20authentication%20bypass.txt
+Details: 
 
-PoC: https://github.com/mcw0/DahuaConsole
+[Dahua Authentication Bypass](https://github.com/mcw0/PoC/blob/master/Dahua%20authentication%20bypass.txt)
+
+[Dahua Console PoC:](https://github.com/mcw0/DahuaConsole)
 
 2021-09-06
  
